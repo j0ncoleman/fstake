@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'CustomFont'; /* Font name you'll use */
+    src: url('./pcap.otf') format('truetype'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+  }
