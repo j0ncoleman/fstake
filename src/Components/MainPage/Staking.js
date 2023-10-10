@@ -637,7 +637,7 @@ export const Staking = ({ connected }) => {
             </Button>
           </Div>
           <Div textColor="gray900" textSize="12px" m={{ y: "10px" }}>
-            <i>Early Withdrawal Fee: 15%</i>
+            <i>Early Withdrawal Fee: 10%</i>
           </Div>
           <Div
             w="90%"
