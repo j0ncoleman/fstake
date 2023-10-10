@@ -33,7 +33,7 @@ export const Staking = ({ connected }) => {
   const [dailyRewards, setDailyRewards] = useState();
   const [smallDailyRewards, setSmallDailyRewards] = useState();
   const [stakingToken, setStakingToken] = useState(
-    "0x3EE7Fbc933bae85fCA26202267E195efb6a140c7"
+    "0x343ed91Ea4199F301A1239d33EE914669beF995E"
   );
   const [isWithdrawn, setIsWithdrawn] = useState(false);
   const [tokenAddress, setTokenAddress] = useState(
